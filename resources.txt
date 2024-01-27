@@ -1,0 +1,4 @@
+https://github.com/ahmetozer/stream-multiplexer/blob/master/Dockerfile
+https://github.com/theonemule/nginx-rtmp/blob/master/dockerfile
+https://gist.github.com/amitkhare/55155f9ae97013c45eff84eef84ab244
+https://github.com/Noxalus/Multi-Streaming-Server/blob/master/nginx/conf/nginx.template.conf
