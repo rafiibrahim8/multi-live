@@ -1,7 +1,8 @@
 version: '3.9'
 
 services:
-  stream-multiplayer:
+  multi-live:
+    restart: unless-stopped
     build: .
     ports:
       - "1935:1935"
