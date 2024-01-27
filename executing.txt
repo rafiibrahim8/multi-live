@@ -1,6 +1,0 @@
-sudo apt install libnginx-mod-rtmp stunnel4 -y
-sudo systemctl enable stunnel4.service
-sudo systemctl restart stunnel4.service
-
-sudo mkdir /etc/nginx/rtmp.conf.d
-echo "include /etc/nginx/rtmp.conf.d/*.conf;" | sudo tee -a /etc/nginx/nginx.conf

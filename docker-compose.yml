@@ -5,7 +5,5 @@ services:
     build: .
     ports:
       - "1935:1935"
-    environment:
-      RELAY_STREAM_KEY: "stream"
-      YOUTUBE_STREAM_KEY: "ytstream"
-      FACEBOOK_STREAM_KEY: "fbstream"
+    env_file:
+      - .env
