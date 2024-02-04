@@ -38,7 +38,7 @@ docker compose up --build
 Now you can start streaming to your relay server on `rtmp://localhost/<RELAY_STREAM_KEY>`. The server will then relay your stream to Facebook and YouTube.
 
 ## Contributing
-Contributions are welcome. Please open an [issue](issues) or make a [pull request](pulls).
+Contributions are welcome. Please open an [issue](https://github.com/rafiibrahim8/multi-live/issues) or make a [pull request](https://github.com/rafiibrahim8/multi-live/pulls) to contribute.
 
 ## License
 This project is open source and available under the [MIT License](LICENSE).
